@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1711821161 source:e:\phitron\semester1\test.c
+
+1711821011 source:e:\phitron\semester1\print.c
+	<stdio.h>
+
+1711821112 source:e:\phitron\semester1\variable.c
+	<stdio.h>
+
